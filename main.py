@@ -1,6 +1,8 @@
-
-from rag import build_index, answer_question
+from rag import build_index
+from agent import run_agent
 from config import DOCS_FOLDER, COMPANY_NAME
+
+SHOW_TOOL_CALLS = True    
 
 
 def main():
@@ -13,13 +15,17 @@ def main():
 
     print(f"Ready! Indexed {len(index)} chunks. Ask a question (or type 'quit').\n")
 
+    history = []         
+
     while True:
         question = input("Customer: ")
         if question.lower() in ("quit", "exit"):
             break
         if not question.strip():
             continue
-        print("\nAssistant:", answer_question(question, index), "\n")
+
+        reply, history = run_agent(question, index, history=history, verbose=SHOW_TOOL_CALLS)
+        print(f"\nAssistant: {reply}\n")
 
 
 if __name__ == "__main__":

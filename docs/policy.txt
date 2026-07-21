@@ -1,121 +1,135 @@
-Shipping Policy
+SHIPPING POLICY
+
+WHERE DOES ACME STORE DELIVER?
+Acme Store ships to over 60 countries worldwide. Delivery times vary by destination region and by the shipping method selected at checkout. All delivery estimates below are given in business days and begin after the order has been processed, not from the moment the order is placed.
+
+ORDER PROCESSING TIME
+All orders require a processing time of 1 to 3 business days before they are dispatched. Orders placed on weekends or public holidays are processed on the next business day. During peak seasons and promotional sales, processing may take up to 5 business days.
+
+DELIVERY TIMES: NORTH AMERICA
+- United States: 8 to 15 business days
+- United States remote areas: 20 to 30 business days
+- Canada: 10 to 15 business days
+- Mexico: 15 to 30 business days
+- Puerto Rico: 20 to 30 business days
+
+DELIVERY TIMES: EUROPE
+- United Kingdom: 10 to 15 business days
+- Germany: 10 to 18 business days
+- France: 10 to 18 business days
+- Italy: 12 to 20 business days
+- Spain: 12 to 20 business days
+- Netherlands: 10 to 18 business days
+- Rest of Europe: 15 to 25 business days
+
+DELIVERY TIMES: AFRICA
+- Nigeria (including Lagos, Abuja, Akure, Ekiti, Port Harcourt): 15 to 25 business days
+- Ghana: 15 to 25 business days
+- Kenya: 18 to 28 business days
+- South Africa: 15 to 25 business days
+- Egypt: 18 to 28 business days
+- Rest of Africa: 20 to 35 business days
+
+DELIVERY TIMES: ASIA AND OCEANIA
+- India: 15 to 25 business days
+- China: 12 to 20 business days
+- Japan: 12 to 20 business days
+- Singapore: 12 to 20 business days
+- Australia: 15 to 25 business days
+- New Zealand: 15 to 25 business days
+- Rest of Asia: 18 to 30 business days
+
+DELIVERY TIMES: SOUTH AMERICA
+- Brazil: 20 to 35 business days
+- Argentina: 20 to 35 business days
+- Chile: 20 to 35 business days
+- Rest of South America: 25 to 40 business days
+
 WHAT DELIVERY OPTIONS DO I HAVE?
+When the destination country is the United States, customers can choose between Standard Delivery and Express Delivery. Standard Delivery takes 8 to 15 business days. Express Delivery takes 4 to 7 business days and costs an additional fee calculated at checkout. For all other countries, only Standard Delivery is available.
+
+HOW MUCH DOES SHIPPING COST?
+Standard shipping costs a flat rate of 6.99 USD for orders under 50 USD. Orders of 50 USD or more qualify for free standard shipping to all destinations. Express Delivery, where available, costs 19.99 USD regardless of order value. The exact shipping cost for your destination is displayed at checkout before payment is confirmed.
+
+DO YOU SHIP TO PO BOXES?
+Acme Store does not deliver to PO Boxes. A valid physical street address is required for all orders. Orders submitted with a PO Box address will be held and the customer will be contacted to provide an alternative address.
+
+HOW DO I TRACK MY ORDER?
+Once an order has been dispatched, a shipping confirmation email containing a tracking number is sent to the email address used at checkout. Tracking information may take up to 48 hours to become active after dispatch. Customers can also view tracking details by logging into their account and selecting "Order History."
+
+WHAT IF MY ORDER IS DELAYED?
+Delivery estimates are not guaranteed and may be affected by customs clearance, weather, carrier delays, and peak season volume. During peak seasons and promotional sales, delivery may take longer than the estimates listed above. If an order has not arrived within 10 business days of the maximum estimated delivery time, customers should contact support for assistance.
+
+CUSTOMS, DUTIES AND TAXES
+Acme Store is not responsible for any customs duties, import taxes, or handling fees charged by the destination country. These charges are the responsibility of the customer and are collected by the carrier or local customs authority upon delivery. Customs policies vary widely between countries; customers should contact their local customs office for more information.
+
+WHAT IF MY PACKAGE IS LOST OR MISSING?
+If tracking shows an order as delivered but the package has not been received, customers should first check with neighbours and their local carrier depot. If the package is still missing after 3 business days, contact support with the order number so that an investigation can be opened with the carrier. Investigations can take up to 14 business days to resolve.
+
+CAN I CHANGE MY SHIPPING ADDRESS AFTER ORDERING?
+Shipping addresses can only be changed before an order has been dispatched. Customers should contact support immediately with their order number and the corrected address. Once an order has been dispatched, the shipping address cannot be modified.
 
 
-When your destination country is the U.S., you can choose between Standard Delivery and Express Delivery.
+RETURNS AND REFUNDS POLICY
+
+WHAT IS THE RETURN WINDOW?
+Acme Store accepts returns within 30 days of the delivery date. Return requests submitted after 30 days from delivery cannot be accepted.
+
+WHAT CONDITION MUST ITEMS BE IN?
+Returned items must be unused, unworn, unwashed, and in their original condition with all tags attached. Items must be returned in the original packaging where possible. Items that show signs of wear, damage, or alteration will not be accepted for refund.
+
+WHICH ITEMS CANNOT BE RETURNED?
+The following items are final sale and cannot be returned or exchanged:
+- Items marked "Final Sale" on the product page
+- Gift cards
+- Underwear, swimwear, and earrings, for hygiene reasons
+- Personalised or custom-made items
+- Items purchased during clearance events
+
+HOW DO I START A RETURN?
+To start a return, log into your account, select "Order History," choose the relevant order, and select "Request Return." Alternatively, contact support with your order number and the reason for the return. A return authorisation and return shipping instructions will be sent by email within 2 business days.
+
+WHO PAYS FOR RETURN SHIPPING?
+If the return is due to a defective, damaged, or incorrect item, Acme Store covers the cost of return shipping and provides a prepaid label. For all other returns, including change of mind and incorrect size selection, the customer is responsible for return shipping costs.
+
+WHEN WILL I RECEIVE MY REFUND?
+Once a returned item is received and inspected at the warehouse, the customer is notified by email of approval or rejection. Approved refunds are processed within 5 to 10 business days and issued to the original payment method. Depending on the bank or card issuer, it may take an additional 5 to 10 business days for the refund to appear on the customer's statement. Original shipping charges are non-refundable.
+
+CAN I EXCHANGE AN ITEM?
+Direct exchanges are not offered. To obtain a different size or colour, customers should return the original item for a refund and place a new order for the desired item.
+
+WHAT IF I RECEIVED A DAMAGED OR INCORRECT ITEM?
+Customers who receive a damaged, defective, or incorrect item should contact support within 7 days of delivery with the order number and photographs of the item and packaging. A replacement or full refund, including shipping costs, will be arranged at no cost to the customer.
 
 
-STANDARD DELIVERY:
+ORDERS AND PAYMENTS POLICY
 
-Standard delivery time:15-30day
+WHAT PAYMENT METHODS ARE ACCEPTED?
+Acme Store accepts Visa, Mastercard, American Express, PayPal, Apple Pay, and Google Pay. All payments are processed securely and card details are never stored on Acme Store servers.
 
-Standard Free Shipping: Orders Over 29USD
+WHAT CURRENCY ARE PRICES SHOWN IN?
+All prices are displayed and charged in United States Dollars (USD). If the customer's card is issued in another currency, the bank applies its own conversion rate and may charge a foreign transaction fee.
 
+CAN I CANCEL OR CHANGE MY ORDER?
+Orders can be cancelled or modified within 2 hours of being placed, provided the order has not yet entered processing. To cancel or change an order, contact support immediately with the order number. Once an order has entered processing, it cannot be cancelled or modified.
 
-Standard delivery is free for orders 29USD. The discount applies automatically at the checkout. (Some countries cannot be delivered through standard transportation channels and can only be shipped through commercial express. This requires additional charges. The specific situation will be determined at checkout.)
+WHY WAS MY PAYMENT DECLINED?
+Payments are most commonly declined due to insufficient funds, incorrect billing details, or the card issuer blocking an international transaction. Customers should verify that the billing address entered matches the address registered with the card issuer, and contact their bank if the problem continues.
 
-
-During peak seasons and promotional sales, delivery might take a little longer.
-
-EXPRESS DELIVERY:
-
-
-Express delivery time 7-20 business days
-
-Due to customs regulations and import duties, express shipping is not available in certain countries and regions. We appreciate your understanding.
-During peak seasons and promotional sales, delivery might take a little longer.
+DO YOU OFFER DISCOUNT CODES?
+Discount codes can be entered in the "Promo Code" field at checkout. Only one discount code may be applied per order, and discount codes cannot be combined with clearance pricing. Codes cannot be applied retroactively to orders that have already been placed.
 
 
-WHERE DOE JOURNALSAY DELIVER?
+ACCOUNT AND SUPPORT
 
-North America	United States	8-15Day
-Canada	10-15Day
-Mexico	15-30Day
-Puerto Rico	20-30Day
-United States Remote Areas	20-30Day
-Europe	United Kingdom	5-12Day
-France	8-20Day
-Germany	8-20Day
-Italy	8-20Day
-Spain	8-20Day
-Netherlands	8-20Day
-Austria	8-20Day
-Belgium	8-20Day
-Bulgaria	8-20Day
-Switzerland	8-20Day
-Czech Republic	8-20Day
-Denmark	8-20Day
-Estonia	8-20Day
-Finland	8-20Day
-Greece	8-20Day
-Croatia	8-20Day
-Hungary	8-20Day
-Ireland	8-20Day
-Lithuania	8-20Day
-Luxembourg	8-20Day
-Latvia	8-20Day
-Malta	8-20Day
-Norway	8-20Day
-Poland	8-20Day
-Portugal	8-20Day
-Romania	8-20Day
-Sweden	8-20Day
-Slovenia	8-20Day
-Slovakia	8-20Day
-South America	Brazil	20-40Day
-Argentina	20-45Day
-Chile	15-30Day
-Colombia	15-30Day
-Peru	15-30Day
-Oceania	Australia	8-15Day
-New Zealand	8-15Day
-Asia	Japan	3-9 Day
-Hong Kong	1-3 Day
-India	15-30Day
-South Korea	7-13Day
-Philippines	15-30Day
-Singapore	7-14Day
-Thailand	5-10Day
-Taiwan	7-9 Day
-Asia (Middle East)	United Arab Emirates	8-15Day
-United Arab Emirates	8-15Day
-Israel	15-30Day
-Saudi Arabia	15-30Day
-Turkey	15-30Day
-Africa	Morocco	15-30Day
-South Africa	15-30Day
+HOW DO I CONTACT SUPPORT?
+Support can be reached by email at support@acmestore.example or through the contact form on the website. Support operates Monday to Friday, 9:00 to 17:00 GMT, excluding public holidays. All enquiries receive a response within 1 to 2 business days.
 
-This table only lists some countries. If your country is not included, you can contact our customer service for shipping details.
+DO I NEED AN ACCOUNT TO ORDER?
+An account is not required to place an order; guest checkout is available. Creating an account allows customers to track orders, view order history, save addresses, and start returns online.
 
-HOW CAN I TRACK MY ORDER?
+HOW DO I RESET MY PASSWORD?
+Select "Forgot Password" on the login page and enter the registered email address. A password reset link will be sent by email and remains valid for 24 hours.
 
-
-A: 1. You can log in to your account on the website and find the corresponding order you purchased. (Note: Tracking numbers can only be viewed on a computer.) Once you have the tracking number, use this website (https://www.17track.net/en) to track your package. All order logistics information is fully trackable.
-
-2. Check your Google Mail account for an email notification regarding "Payment Successful/Delivery" and other operations. Check the tracking number in the email and use this website (https://www.17track.net/en) to track your package. All order logistics information is fully trackable.
-
-3. Contact our customer service and provide your order number or the email address you used to place the order. Customer service will typically respond within 24 hours.
-
-
-TAX AND DUTIES
-
-Taxes and duties are calculated according to your shipping destination and itemized on the Checkout page. Make sure you select your location to view the correct local market pricing, delivery times and shipping costs.
-
-
-EU Countries:
-
-For all orders shipped to European Union (EU) countries and Canada, we use DDP (Delivered Duty Paid) terms. This means that the prices you see on our website already include any applicable import duties or taxes due in your country. No additional duties or taxes will be charged on delivery.
-
-By including the duty paid, we will clear customs on your behalf and cover the cost of any import taxes in your EU country. The price you see is the full amount you will have to pay.
-
-
-Non-EU Countries:
-
-We use DDU (Delivered Duty Unpaid) terms for orders shipped to countries outside the EU. Under DDU terms, the prices of products shown on our website do not include any local and import taxes at destination.
-
-It is your responsibility as the customer to pay any applicable import duties, taxes, customs fees or clearance charges directly to the local customs office prior to receipt of the goods. The freight courier or postal service will assist in collecting taxes and duties as required.
-
-In non-EU countries, we will provide all appropriate documentation required for accurate customs clearance. Customs policies vary widely, so if you have any questions about taxes and fees in your country, please check with your local customs office.
-
-
-Once your order arrives at its destination, you will be required to pay all import duties, customs and local sales taxes for the location that you’re shipping to. After you have placed your order, we’ll email you to seek your acceptance of these terms. For an estimate of taxes and duties on your purchase, please contact your local customs.
+HOW IS MY PERSONAL DATA HANDLED?
+Acme Store collects only the information required to process orders and provide customer support. Personal data is never sold to third parties. Customers may request a copy or deletion of their personal data by contacting support.

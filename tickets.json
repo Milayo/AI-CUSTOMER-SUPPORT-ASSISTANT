@@ -1,0 +1,18 @@
+[
+  {
+    "id": "TICKET-1001",
+    "created_at": "2026-07-21T11:41:41",
+    "summary": "Customer asked for CEO's name.",
+    "customer_question": "what's your CEO's name?",
+    "customer_email": "not provided",
+    "status": "open"
+  },
+  {
+    "id": "TICKET-1002",
+    "created_at": "2026-07-21T11:41:56",
+    "summary": "Customer wants to speak to a human.",
+    "customer_question": "I want to speak to a human.",
+    "customer_email": "not provided",
+    "status": "open"
+  }
+]
